@@ -1,0 +1,17 @@
+{
+  "name": "zk-proveth",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "esm": "^3.2.25",
+    "ethers": "^6.8.0",
+    "zokrates-js": "^1.1.8"
+  }
+}
